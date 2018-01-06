@@ -17,7 +17,7 @@ ui <- fluidPage(
     href = "http://pkg.robjhyndman.com/forecast/", target="_blank"),
   tags$div(tags$br()),
   a("Click here to view the R code on GitHub", 
-    href = "https://github.com/agawronski/", target="_blank"),
+    href = "https://github.com/agawronski/corn_futures", target="_blank"),
   tags$div(tags$br()),
   dateRangeInput("daterange", "Date range:",
                  start = min(data$Date),
