@@ -1,0 +1,12 @@
+name: corn_futures
+title: corn_futures
+username:
+account: agawronski
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 254455
+bundleId: 1165052
+url: https://agawronski.shinyapps.io/corn_futures/
+when: 1515279768.74459
+asMultiple: FALSE
+asStatic: FALSE
