@@ -1,4 +1,4 @@
-## canadian_housing_index
+## corn_futures
 
 Code to generate a basic Shiny R app which forecasts [Corn Futures, Continuous Contract #1 (C1) (Front Month)](https://www.quandl.com/data/CHRIS/CME_C1-Corn-Futures-Continuous-Contract-1-C1-Front-Month).
 
